@@ -1,17 +1,23 @@
 # 👋 Hi, I'm Gurpreet!
 
 🎯 **I am a Business Data Analyst**  
+
 📊 Passionate about **transforming data into actionable insights using SQL, Python, Power BI, & Data Science**  
+
 🚀 Currently exploring **advanced data analytics, predictive modeling, and cloud-based solutions to drive business insights and efficiency**  
 
 ---
 
 ### 🛠 **Key Skills:**
 
-- **Business Intelligence:** Data Visualization, Dashboard Development, KPI Reporting  
-- **Data Analysis:** SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau  
-- **Database Management:** MySQL, PostgreSQL, SQL Server  
-- **Analytics & Modeling:** Predictive Analytics, Forecasting, Statistical Analysis  
+- **Business Intelligence:** Data Visualization, Dashboard Development, KPI Reporting
+  
+- **Data Analysis:** SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau
+  
+- **Database Management:** MySQL, PostgreSQL, SQL Server
+  
+- **Analytics & Modeling:** Predictive Analytics, Forecasting, Statistical Analysis
+  
 - **Cloud & Automation:** Microsoft Azure, Google Analytics, ETL Pipelines  
 
 ---
@@ -19,7 +25,9 @@
 ### 💼 **A Glimpse of my Past Experience:**
 
 - **Data Analyst Intern | Natural Shoes, Inc** - Built automated SQL dashboards and ETL pipelines, reducing reporting time by 40% and improving inventory forecasting.
+  
 - **National Key Accounts Manager (Analytics) | Zomato** - Led data-driven pricing and marketing strategies, increasing customer acquisition by 21% and boosting revenue by $550K.
+  
 - **Audit & Assurance Analyst II | Deloitte** - Conducted variance analysis and automated audit workflows, reducing financial risk exposure by 18% and increasing efficiency by 30%.
 
 ---
