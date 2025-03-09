@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gurpreet!
 
-🎯 ** I am a Business Data Analyst **  
+🎯 **I am a Business Data Analyst**  
 📊 Passionate about **transforming data into actionable insights using SQL, Python, Power BI, & Data Science**  
-🚀 Currently exploring ****  
+🚀 Currently exploring **advanced data analytics, predictive modeling, and cloud-based solutions to drive business insights and efficiency**  
 
 ---
 
