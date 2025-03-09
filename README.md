@@ -27,7 +27,7 @@
 ## <p align="center" style="color:yellow;">🌍 Connect with Me</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/gurpreetchandok/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gurpreet.chandok21@gmail.com" style="text-decoration: none;">
