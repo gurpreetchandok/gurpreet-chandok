@@ -1,18 +1,18 @@
 # Hello, 𝖨 𝖺𝗆 GURPREET.
 
-🎯 **I am a Business Data Analyst**  
+**I am a Business Data Analyst**  
 
-📊 Passionate about **transforming data into actionable insights using SQL, Python, Power BI, & Data Science**  
+Passionate about **transforming data into actionable insights using SQL, Python, Power BI, & Data Science**  
 
-🚀 Currently exploring **advanced data analytics, predictive modeling, and cloud-based solutions to drive business insights and efficiency**  
+Currently exploring **advanced data analytics, predictive modeling, and cloud-based solutions to drive business insights and efficiency**  
 
-Certified **Microsoft PowerBI Data Analyst Associate**
+🎖️ Certified **Microsoft PowerBI Data Analyst Associate**
 
-Certified **Python PCEP Programmer** 
+🎖️ Certified **Python PCEP Programmer** 
 
 ---
 
-### 🛠 **Key Skills:**
+### **Key Skills:**
 
 - **Business Intelligence:** Data Visualization (PowerBI, Tableau, Looker), Dashboard Development, KPI Reporting
   
@@ -26,7 +26,7 @@ Certified **Python PCEP Programmer**
 
 ---
 
-### 💼 **A Glimpse of my Past Experience:**
+### **A Glimpse of my Past Experience:**
 
 - **Data Analyst Intern | Natural Shoes, Inc** - Built automated SQL dashboards and ETL pipelines, reducing reporting time by 40% and improving inventory forecasting.
   
@@ -36,7 +36,8 @@ Certified **Python PCEP Programmer**
 
 ---
 
-## <p align="center" style="color:yellow;">🌍 Connect with Me</p>
+## <p align="center" style="color:yellow;">🌍 Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ! </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gurpreetchandok/" style="text-decoration: none;">
@@ -44,5 +45,8 @@ Certified **Python PCEP Programmer**
   </a>
   <a href="mailto:gurpreet.chandok21@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/gurpreetschandok_?igsh=am04aXNlNzFpNTlx&utm_source=qr" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
