@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gurpreet!
+# Hello, 𝖨 𝖺𝗆 GURPREET.
 
 🎯 **I am a Business Data Analyst**  
 
@@ -6,11 +6,15 @@
 
 🚀 Currently exploring **advanced data analytics, predictive modeling, and cloud-based solutions to drive business insights and efficiency**  
 
+Certified **Microsoft PowerBI Data Analyst Associate**
+
+Certified **Python PCEP Programmer** 
+
 ---
 
 ### 🛠 **Key Skills:**
 
-- **Business Intelligence:** Data Visualization, Dashboard Development, KPI Reporting
+- **Business Intelligence:** Data Visualization (PowerBI, Tableau, Looker), Dashboard Development, KPI Reporting
   
 - **Data Analysis:** SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau
   
